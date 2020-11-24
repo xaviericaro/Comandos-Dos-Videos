@@ -1,0 +1,29 @@
+perfil:
+
+$deletecommand
+$nomention
+
+
+$thumbnail[$authorAvatar]
+
+$title[Perfil]
+
+$color[20b2aa]
+
+$description[
+
+Nome:      
+
+$username   
+
+                                             
+
+Descrição:
+
+$getUserVar[meutexto]
+
+]
+
+$image[$getUserVar[addimage $message]]
+
+$footer[Digite addimage e uma imagem em forma de link para trocar a imagem.]
