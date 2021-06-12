@@ -1,0 +1,6 @@
+$suppressErrors[**❌ | Utilize [coloque o nome do comando aqui] <tempo>**]
+$onlyAdmin[**❌ | Apenas administradores pode utilizar este comando!**]
+$slowmode[$channelID;$message]
+$description[🕑| Slowmode Ativado! Tempo: $message]
+$color[FF0000]
+$deletecommand
