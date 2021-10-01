@@ -1,0 +1,6 @@
+Trigger: O prefixo do seu Bot.
+
+Comando:
+onlyIf[$checkContains[$message[1];comando 1;comando 2;...;etc]==true;❌ O comando $replaceText[$replaceText[$checkCondition[$message[1]!=];true;$message[1];-1];false;<Não Definido>;-1]** não existe, por favor use r!ajuda para obter mais informações!**]
+$onlyIf[$message[2]==;]
+$onlyIf[$message[1]!=;]
