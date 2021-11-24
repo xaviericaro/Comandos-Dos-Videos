@@ -1,0 +1,9 @@
+title[Balance]
+$description[💵 **| Carteira: R$** $getUserVar[sua variável de dinheiro]
+🏦 **| Banco: R$** $getUserVar[sua variável de banco]
+$authorID]]
+$thumbnail[$authorAvatar]
+$footer[$username#$discriminator[$authorID]]
+$color[260be8]
+
+Tanto a variável de dinheiro e a de banco tem que ter o valor igual a 0
